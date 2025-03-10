@@ -1,0 +1,1 @@
+`define ADDER_WIDTH 32
